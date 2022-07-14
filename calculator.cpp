@@ -20,4 +20,5 @@ int main() {
     std::cout << "The multiplication is " <<mult << std::endl;
     std::cout << "The division is " <<div << std::endl;
 
+    
 }
