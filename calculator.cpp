@@ -1,5 +1,4 @@
 #include <iostream>
-#include <stdlib.h>
 
 int main() {
     int num1, num2, sum, sub, mult, div;
